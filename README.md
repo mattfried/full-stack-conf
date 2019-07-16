@@ -1,7 +1,7 @@
 # full-stack-conf
 Full Stack Conference bootstrap project website
 
-https://github.com/mattfried/full-stack-conf
+https://mattfried.github.io/full-stack-conf/
 
 ### About:
 Full Stack Conference is a single page mock website that serves as the info and registration hub for an upcoming conference.
